@@ -1,0 +1,16 @@
+.custome_table thead[class*="ant-table-thead"] th {
+  background-color: #000 !important;
+  color: white;
+  font-weight: bold;
+  border-color: #000;
+  text-align: center;
+}
+
+.custome_table .ant-table-tbody > tr > td {
+  background-color: #000 !important;
+  font-weight: bold;
+
+  color: white;
+  border-right: 1px groove white;
+  cursor: pointer;
+}
